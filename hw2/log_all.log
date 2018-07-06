@@ -1,0 +1,174 @@
+2018-07-05 22:01:11,512 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task1.TestAnnotations 
+2018-07-05 22:01:11,520 INFO c.e.l.h.t.TestReflection [main] package com.epam.lab7.hw2.task1 
+2018-07-05 22:01:11,541 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'name' are: 
+2018-07-05 22:01:11,541 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task1.MyAnnotation(info=Annotation field) 
+2018-07-05 22:01:11,542 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'var' are: 
+2018-07-05 22:01:11,542 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task1.MyAnnotation(info=Hello everybody) 
+2018-07-05 23:27:30,590 INFO c.e.l.h.t.TestReflection [main] Method doSomething is working 5 
+2018-07-05 23:27:30,597 INFO c.e.l.h.t.TestReflection [main] Method doOther is working true 
+2018-07-05 23:27:30,625 INFO c.e.l.h.t.TestReflection [main] 0 
+2018-07-05 23:27:30,625 INFO c.e.l.h.t.TestReflection [main] It is working 
+2018-07-05 23:27:30,626 INFO c.e.l.h.t.TestReflection [main] Name = Big boss, year = 2018 
+2018-07-05 23:27:30,626 INFO c.e.l.h.t.TestReflection [main] Hello everybody 
+2018-07-05 23:35:09,465 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:35:09,472 INFO c.e.l.h.t.TestReflection [main] package com.epam.lab7.hw2.task2_3 
+2018-07-05 23:35:09,477 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'name' are: 
+2018-07-05 23:35:09,478 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Annotation field) 
+2018-07-05 23:35:09,478 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'var' are: 
+2018-07-05 23:35:09,478 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Hello everybody) 
+2018-07-05 23:35:09,479 INFO c.e.l.h.t.TestReflection [main] @TestAnnotations 
+2018-07-05 23:36:59,986 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:36:59,995 INFO c.e.l.h.t.TestReflection [main] package com.epam.lab7.hw2.task2_3 
+2018-07-05 23:37:00,000 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'name' are: 
+2018-07-05 23:37:00,001 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Annotation field) 
+2018-07-05 23:37:00,001 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'var' are: 
+2018-07-05 23:37:00,002 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Hello everybody) 
+2018-07-05 23:37:00,002 INFO c.e.l.h.t.TestReflection [main] @TestAnnotations 
+2018-07-05 23:37:00,013 INFO c.e.l.h.t.TestReflection [main] class com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:38:27,169 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:38:27,175 INFO c.e.l.h.t.TestReflection [main] package com.epam.lab7.hw2.task2_3 
+2018-07-05 23:38:27,178 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'name' are: 
+2018-07-05 23:38:27,179 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Annotation field) 
+2018-07-05 23:38:27,179 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'var' are: 
+2018-07-05 23:38:27,179 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Hello everybody) 
+2018-07-05 23:38:27,180 INFO c.e.l.h.t.TestReflection [main] @TestAnnotations 
+2018-07-05 23:38:27,180 INFO c.e.l.h.t.TestReflection [main] class com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:39:19,150 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:39:19,159 INFO c.e.l.h.t.TestReflection [main] package com.epam.lab7.hw2.task2_3 
+2018-07-05 23:39:19,164 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'name' are: 
+2018-07-05 23:39:19,164 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Annotation field) 
+2018-07-05 23:39:19,165 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'var' are: 
+2018-07-05 23:39:19,165 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Hello everybody) 
+2018-07-05 23:39:19,165 INFO c.e.l.h.t.TestReflection [main] @TestAnnotations 
+2018-07-05 23:39:19,166 INFO c.e.l.h.t.TestReflection [main] class com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:39:48,588 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:39:48,595 INFO c.e.l.h.t.TestReflection [main] package com.epam.lab7.hw2.task2_3 
+2018-07-05 23:39:48,598 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'name' are: 
+2018-07-05 23:39:48,599 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Annotation field) 
+2018-07-05 23:39:48,599 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'var' are: 
+2018-07-05 23:39:48,599 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Hello everybody) 
+2018-07-05 23:39:48,600 INFO c.e.l.h.t.TestReflection [main] @TestAnnotations 
+2018-07-05 23:39:48,600 INFO c.e.l.h.t.TestReflection [main] class com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:40:05,441 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:40:05,453 INFO c.e.l.h.t.TestReflection [main] package com.epam.lab7.hw2.task2_3 
+2018-07-05 23:40:05,459 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'name' are: 
+2018-07-05 23:40:05,460 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Annotation field) 
+2018-07-05 23:40:05,460 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'var' are: 
+2018-07-05 23:40:05,461 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Hello everybody) 
+2018-07-05 23:40:05,461 INFO c.e.l.h.t.TestReflection [main] @TestAnnotations 
+2018-07-05 23:40:05,462 INFO c.e.l.h.t.TestReflection [main] class com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:40:29,886 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:40:29,894 INFO c.e.l.h.t.TestReflection [main] package com.epam.lab7.hw2.task2_3 
+2018-07-05 23:40:29,899 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'name' are: 
+2018-07-05 23:40:29,899 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Annotation field) 
+2018-07-05 23:40:29,900 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'var' are: 
+2018-07-05 23:40:29,900 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Hello everybody) 
+2018-07-05 23:40:29,901 INFO c.e.l.h.t.TestReflection [main] @TestAnnotations 
+2018-07-05 23:40:38,706 INFO c.e.l.h.t.TestReflection [main] class com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:40:46,104 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:40:46,112 INFO c.e.l.h.t.TestReflection [main] package com.epam.lab7.hw2.task2_3 
+2018-07-05 23:40:46,119 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'name' are: 
+2018-07-05 23:40:46,123 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Annotation field) 
+2018-07-05 23:40:46,125 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'var' are: 
+2018-07-05 23:40:46,125 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Hello everybody) 
+2018-07-05 23:40:46,126 INFO c.e.l.h.t.TestReflection [main] @TestAnnotations 
+2018-07-05 23:41:58,779 INFO c.e.l.h.t.TestReflection [main] class com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:42:54,427 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:42:54,436 INFO c.e.l.h.t.TestReflection [main] package com.epam.lab7.hw2.task2_3 
+2018-07-05 23:42:54,442 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'name' are: 
+2018-07-05 23:42:54,442 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Annotation field) 
+2018-07-05 23:42:54,443 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'var' are: 
+2018-07-05 23:42:54,443 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Hello everybody) 
+2018-07-05 23:43:07,714 INFO c.e.l.h.t.TestReflection [main] class com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:43:29,389 INFO c.e.l.h.t.TestReflection [main] class com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:43:36,614 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:43:36,628 INFO c.e.l.h.t.TestReflection [main] package com.epam.lab7.hw2.task2_3 
+2018-07-05 23:43:36,632 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'name' are: 
+2018-07-05 23:43:36,632 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Annotation field) 
+2018-07-05 23:43:36,632 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'var' are: 
+2018-07-05 23:43:36,633 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Hello everybody) 
+2018-07-05 23:43:36,633 INFO c.e.l.h.t.TestReflection [main] class com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:44:10,051 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:44:10,058 INFO c.e.l.h.t.TestReflection [main] package com.epam.lab7.hw2.task2_3 
+2018-07-05 23:44:10,062 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'name' are: 
+2018-07-05 23:44:10,063 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Annotation field) 
+2018-07-05 23:44:10,063 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'var' are: 
+2018-07-05 23:44:10,064 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Hello everybody) 
+2018-07-05 23:44:10,064 INFO c.e.l.h.t.TestReflection [main] class com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:44:21,606 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:44:21,614 INFO c.e.l.h.t.TestReflection [main] package com.epam.lab7.hw2.task2_3 
+2018-07-05 23:44:21,617 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'name' are: 
+2018-07-05 23:44:21,618 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Annotation field) 
+2018-07-05 23:44:21,618 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'var' are: 
+2018-07-05 23:44:21,619 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Hello everybody) 
+2018-07-05 23:44:33,317 INFO c.e.l.h.t.TestReflection [main] class com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:44:40,612 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-05 23:44:40,625 INFO c.e.l.h.t.TestReflection [main] package com.epam.lab7.hw2.task2_3 
+2018-07-05 23:44:40,632 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'name' are: 
+2018-07-05 23:44:40,633 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Annotation field) 
+2018-07-05 23:44:40,633 INFO c.e.l.h.t.TestReflection [main] Annotation on field 'var' are: 
+2018-07-05 23:44:40,634 INFO c.e.l.h.t.TestReflection [main] @com.epam.lab7.hw2.task2_3.MyAnnotation(info=Hello everybody) 
+2018-07-05 23:45:57,684 INFO c.e.l.h.t.TestReflection [main] class com.epam.lab7.hw2.task2_3.TestAnnotations 
+2018-07-06 00:21:58,508 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task5.TestAnnotations@4d3167f4 
+2018-07-06 00:26:17,082 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task5.TestAnnotations@4d3167f4 
+2018-07-06 00:32:28,120 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task5.TestAnnotations@26275bef 
+2018-07-06 00:32:31,094 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task5.TestAnnotations@4d3167f4 
+2018-07-06 00:33:11,373 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task5.TestAnnotations@4d3167f4 
+2018-07-06 00:34:14,675 INFO c.e.l.h.t.TestReflection [main] hello 
+2018-07-06 00:34:50,256 INFO c.e.l.h.t.TestReflection [main] hello 
+2018-07-06 00:35:29,395 INFO c.e.l.h.t.TestReflection [main] kiyh 
+2018-07-06 00:36:29,015 INFO c.e.l.h.t.TestReflection [main] dfg 
+2018-07-06 00:36:49,866 INFO c.e.l.h.t.TestReflection [main] dfg 
+2018-07-06 11:58:27,818 INFO c.e.l.h.t.TestReflection [main] dfgdfhfgh 
+2018-07-06 12:49:20,418 INFO c.e.l.h.t.TestReflection [main] dfgdfhfgh 
+2018-07-06 12:51:13,552 INFO c.e.l.h.t.TestReflection [main] hello 
+2018-07-06 12:54:31,324 INFO c.e.l.h.t.TestReflection [main] h 
+2018-07-06 12:57:07,618 INFO c.e.l.h.t.TestReflection [main] hello everybody 
+2018-07-06 15:15:46,955 INFO c.e.l.h.t.TestReflection [main] private static final org.apache.logging.log4j.Logger com.epam.lab7.hw2.task4.TestAnnotations.logger 
+2018-07-06 15:15:46,962 INFO c.e.l.h.t.TestReflection [main] private static int com.epam.lab7.hw2.task4.TestAnnotations.counter 
+2018-07-06 15:15:46,962 INFO c.e.l.h.t.TestReflection [main] private java.lang.String com.epam.lab7.hw2.task4.TestAnnotations.name 
+2018-07-06 15:15:46,962 INFO c.e.l.h.t.TestReflection [main] private boolean com.epam.lab7.hw2.task4.TestAnnotations.var 
+2018-07-06 15:15:46,963 INFO c.e.l.h.t.TestReflection [main] private int com.epam.lab7.hw2.task4.TestAnnotations.year 
+2018-07-06 15:15:46,963 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task4.TestAnnotations() 
+2018-07-06 15:15:46,963 INFO c.e.l.h.t.TestReflection [main] public java.lang.Object() 
+2018-07-06 15:15:46,963 INFO c.e.l.h.t.TestReflection [main] public java.lang.String com.epam.lab7.hw2.task4.TestAnnotations.getName() 
+2018-07-06 15:15:46,964 INFO c.e.l.h.t.TestReflection [main] public void com.epam.lab7.hw2.task4.TestAnnotations.setName(java.lang.String) 
+2018-07-06 15:15:46,964 INFO c.e.l.h.t.TestReflection [main] public void com.epam.lab7.hw2.task4.TestAnnotations.output(java.lang.String,int) 
+2018-07-06 15:15:46,965 INFO c.e.l.h.t.TestReflection [main] public int com.epam.lab7.hw2.task4.TestAnnotations.getYear() 
+2018-07-06 15:15:46,965 INFO c.e.l.h.t.TestReflection [main] public void com.epam.lab7.hw2.task4.TestAnnotations.setYear(int) 
+2018-07-06 15:15:46,966 INFO c.e.l.h.t.TestReflection [main] public boolean com.epam.lab7.hw2.task4.TestAnnotations.doOther(boolean) 
+2018-07-06 15:15:46,966 INFO c.e.l.h.t.TestReflection [main] public int com.epam.lab7.hw2.task4.TestAnnotations.doSomething(int) 
+2018-07-06 15:15:46,967 INFO c.e.l.h.t.TestReflection [main] protected void java.lang.Object.finalize() throws java.lang.Throwable 
+2018-07-06 15:15:46,967 INFO c.e.l.h.t.TestReflection [main] public final void java.lang.Object.wait() throws java.lang.InterruptedException 
+2018-07-06 15:15:46,967 INFO c.e.l.h.t.TestReflection [main] public boolean java.lang.Object.equals(java.lang.Object) 
+2018-07-06 15:15:46,967 INFO c.e.l.h.t.TestReflection [main] public java.lang.String java.lang.Object.toString() 
+2018-07-06 15:15:46,968 INFO c.e.l.h.t.TestReflection [main] public native int java.lang.Object.hashCode() 
+2018-07-06 15:15:46,968 INFO c.e.l.h.t.TestReflection [main] public final native java.lang.Class java.lang.Object.getClass() 
+2018-07-06 15:15:46,968 INFO c.e.l.h.t.TestReflection [main] protected native java.lang.Object java.lang.Object.clone() throws java.lang.CloneNotSupportedException 
+2018-07-06 15:15:46,968 INFO c.e.l.h.t.TestReflection [main] public final native void java.lang.Object.notify() 
+2018-07-06 15:15:46,968 INFO c.e.l.h.t.TestReflection [main] public final native void java.lang.Object.notifyAll() 
+2018-07-06 15:15:46,968 INFO c.e.l.h.t.TestReflection [main] private static native void java.lang.Object.registerNatives() 
+2018-07-06 15:18:31,093 INFO c.e.l.h.t.TestReflection [main] private static final org.apache.logging.log4j.Logger com.epam.lab7.hw2.task4.TestAnnotations.logger 
+2018-07-06 15:18:31,105 INFO c.e.l.h.t.TestReflection [main] private static int com.epam.lab7.hw2.task4.TestAnnotations.counter 
+2018-07-06 15:18:31,107 INFO c.e.l.h.t.TestReflection [main] private java.lang.String com.epam.lab7.hw2.task4.TestAnnotations.name 
+2018-07-06 15:18:31,107 INFO c.e.l.h.t.TestReflection [main] private boolean com.epam.lab7.hw2.task4.TestAnnotations.var 
+2018-07-06 15:18:31,107 INFO c.e.l.h.t.TestReflection [main] private int com.epam.lab7.hw2.task4.TestAnnotations.year 
+2018-07-06 15:18:31,108 INFO c.e.l.h.t.TestReflection [main] com.epam.lab7.hw2.task4.TestAnnotations() 
+2018-07-06 15:18:31,108 INFO c.e.l.h.t.TestReflection [main] public java.lang.Object() 
+2018-07-06 15:18:31,108 INFO c.e.l.h.t.TestReflection [main] public java.lang.String com.epam.lab7.hw2.task4.TestAnnotations.getName() 
+2018-07-06 15:18:31,109 INFO c.e.l.h.t.TestReflection [main] public void com.epam.lab7.hw2.task4.TestAnnotations.setName(java.lang.String) 
+2018-07-06 15:18:31,109 INFO c.e.l.h.t.TestReflection [main] public int com.epam.lab7.hw2.task4.TestAnnotations.getYear() 
+2018-07-06 15:18:31,109 INFO c.e.l.h.t.TestReflection [main] public void com.epam.lab7.hw2.task4.TestAnnotations.output(java.lang.String,int) 
+2018-07-06 15:18:31,111 INFO c.e.l.h.t.TestReflection [main] public void com.epam.lab7.hw2.task4.TestAnnotations.setYear(int) 
+2018-07-06 15:18:31,112 INFO c.e.l.h.t.TestReflection [main] public boolean com.epam.lab7.hw2.task4.TestAnnotations.doOther(boolean) 
+2018-07-06 15:18:31,112 INFO c.e.l.h.t.TestReflection [main] public int com.epam.lab7.hw2.task4.TestAnnotations.doSomething(int) 
+2018-07-06 15:18:31,112 INFO c.e.l.h.t.TestReflection [main] protected void java.lang.Object.finalize() throws java.lang.Throwable 
+2018-07-06 15:18:31,112 INFO c.e.l.h.t.TestReflection [main] public final void java.lang.Object.wait() throws java.lang.InterruptedException 
+2018-07-06 15:18:31,113 INFO c.e.l.h.t.TestReflection [main] public boolean java.lang.Object.equals(java.lang.Object) 
+2018-07-06 15:18:31,113 INFO c.e.l.h.t.TestReflection [main] public java.lang.String java.lang.Object.toString() 
+2018-07-06 15:18:31,113 INFO c.e.l.h.t.TestReflection [main] public native int java.lang.Object.hashCode() 
+2018-07-06 15:18:31,113 INFO c.e.l.h.t.TestReflection [main] public final native java.lang.Class java.lang.Object.getClass() 
+2018-07-06 15:18:31,113 INFO c.e.l.h.t.TestReflection [main] protected native java.lang.Object java.lang.Object.clone() throws java.lang.CloneNotSupportedException 
+2018-07-06 15:18:31,114 INFO c.e.l.h.t.TestReflection [main] public final native void java.lang.Object.notify() 
+2018-07-06 15:18:31,114 INFO c.e.l.h.t.TestReflection [main] public final native void java.lang.Object.notifyAll() 
+2018-07-06 15:18:31,114 INFO c.e.l.h.t.TestReflection [main] private static native void java.lang.Object.registerNatives() 
